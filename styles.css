@@ -1,4 +1,4 @@
-  
+    
 html{
 
     box-sizing: border-box;
@@ -11,6 +11,12 @@ html{
     
     
     }
+    .button {
+        width: 400px; 
+        margin: 0 auto; 
+        display: block;
+      }
+
     
     
     #map{
@@ -18,6 +24,7 @@ html{
     height:60vh 
     
     }
+
 
     html {
         font: 300 100%/1.5 Ubuntu, sans-serif;
